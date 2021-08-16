@@ -9,6 +9,7 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [Variables](src/ch01/env.sh)
   - [If](src/ch01/if.sh)
   - [For Loop](src/ch01/for.sh)
+  - [Positional Parameters](src/ch01/pos.sh)
 - [ ] Exit Statuses and Return Codes
 - [ ] Functions
 - [ ] Wildcards
