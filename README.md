@@ -10,6 +10,7 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [If](src/ch01/if.sh)
   - [For Loop](src/ch01/for.sh)
   - [Positional Parameters](src/ch01/pos.sh)
+  - [User Input](src/ch01/input.sh)
 - [ ] Exit Statuses and Return Codes
 - [ ] Functions
 - [ ] Wildcards
