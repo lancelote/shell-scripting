@@ -12,7 +12,12 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [Positional Parameters](src/ch01/pos.sh)
   - [User Input](src/ch01/input.sh)
   - [Exercises](src/ch01/exercises)
-- [ ] Exit Statuses and Return Codes
+- [x] [Exit Statuses and Return Codes](src/ch02)
+  - [Check Exit Code](src/ch02/ping.sh)
+  - [Boolean AND](src/ch02/and.sh)
+  - [Boolean OR](src/ch02/or.sh)
+  - [Explicit Exit](src/ch02/exit.sh)
+  - [Exercises](src/ch02/exercises)
 - [ ] Functions
 - [ ] Wildcards
 - [ ] Case Statements
