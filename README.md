@@ -19,6 +19,7 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [Explicit Exit](src/ch02/exit.sh)
   - [Exercises](src/ch02/exercises)
 - [ ] Functions
+  - [Basic Functions](src/ch03/basic_function.sh)
 - [ ] Wildcards
 - [ ] Case Statements
 - [ ] Logging
