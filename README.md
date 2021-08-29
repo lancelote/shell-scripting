@@ -20,6 +20,7 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [Exercises](src/ch02/exercises)
 - [ ] Functions
   - [Basic Functions](src/ch03/basic_function.sh)
+  - [Function Positional Parameters](src/ch03/func_pos_params.sh)
 - [ ] Wildcards
 - [ ] Case Statements
 - [ ] Logging
