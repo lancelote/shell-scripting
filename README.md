@@ -23,6 +23,7 @@ My experiments with examples from "Shell Scripting" book by Jason Cannon
   - [Function Positional Parameters](src/ch03/func_pos_params.sh)
   - [Variable Scope](src/ch03/variable_scope.sh)
   - [Backup Function Example](src/ch03/backup.sh)
+  - [Exercises](src/ch03/exercises)
 - [ ] Wildcards
 - [ ] Case Statements
 - [ ] Logging
